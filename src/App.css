@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background: #333;
+}
+
+.main-container {
+  width: 400px;
+  background: #eee;
+  margin: 0 auto;
+  padding: 2rem;
+  color: black;
+  min-height: 100vh;
+}
